@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Order>
-    <Id>1</Id>
-    <CustomerName>John Doe</CustomerName>
-    <OrderDate>2024-06-01T10:00:00</OrderDate>
-    <TotalAmount>100.00</TotalAmount>
-</Order>
