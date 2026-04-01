@@ -10,6 +10,7 @@ coverage/
 # Local env files
 .env
 .env.*
+.sfdx/
 
 # macOS
 .DS_Store
